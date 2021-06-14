@@ -1,18 +1,18 @@
 ## TECHNICAL EXPERIENCE
 ### **Project Technical Staff II** | University of the Philippines Baguio
 January 2020 - February 2021
-* Web Development
-  - helped maintain, update, and secure websites and their content under a CHED-funded project (name in #2 of *Websites* section).
+* **Web Development**
+  - helped maintain, update, and secure websites and their content under a CHED-funded project.
   - Websites
     1. [University of the Philippines Baguio Herbarium](https://herbarium.upb.edu.ph/) *(formerly known as Northern Luzon University Herbarium)*
     2. [Harnessing the Potential of plant resources in the Cordillera for Drug discovery, and Promoting the use of indigenous wild plants, and underutilized and neglected food crops as alternative food source and livelihood of local communities](https://upbaguiochedcar.upb.edu.ph/) 
-* Systems Administrator
+* **Systems Administrator**
   - helped in creating the infrastructure for deploying the websites.
   - helped update and secure the servers hosting the websites.
-* Graphics Design\
-  **Tools** 
-  - Adobe Photoshop
-  - Adobe InDesign
+* **Graphics Design**
+  - created labels for food products
+  - created flyers and brochures for advertising
+  - created layouts for books on ethnomedicinal plants and a food recipe book
 
 ## EDUCATION
 BS Computer Science | University of the Philippines Baguio\
