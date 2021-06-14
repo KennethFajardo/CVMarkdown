@@ -1,4 +1,5 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+ 
 ## TECHNICAL EXPERIENCE
 ### **Project Technical Staff II** | University of the Philippines Baguio
 January 2020 - February 2021
