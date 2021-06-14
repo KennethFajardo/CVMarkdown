@@ -1,13 +1,4 @@
-
-theme: jekyll-theme-minimal
-title: 💻✒️📄🌟
-description: John Kenneth Fajardo's CV
-
-# John Kenneth Fajardo
-*Web Developer and aspiring data scientist*\
-📧 johnkennethfajardo@gmail.com / 📱  0917 489 3584
-
-## Technical Experience
+## TECHNICAL EXPERIENCE
 ### **Project Technical Staff II** | University of the Philippines Baguio
 January 2020 - February 2021
 * Web Development
@@ -23,10 +14,30 @@ January 2020 - February 2021
   - Adobe Photoshop
   - Adobe InDesign
 
-## Education
+## EDUCATION
 BS Computer Science | University of the Philippines Baguio\
 August 2014 - December 2019
 
-## Seminars/Certifications
+## SEMINARS/WORKSHOPS
+- VA/PT Training | SITESPHIL\
+  February 2021
+- Webserver Security | TLDC-CAR Project 3: Online Database of the Medicinal Plants of the Cordillera\
+  October 2020
 
-## Skills
+## SKILLS\
+### Programming
+- ![80%](https://progress-bar.dev/80?title=HTML)
+- ![70%](https://progress-bar.dev/70?title=CSS)
+- ![60%](https://progress-bar.dev/60?title=JavaScript)
+- ![70%](https://progress-bar.dev/70?title=PHP)
+- ![60%](https://progress-bar.dev/60?title=Symfony)
+- ![70%](https://progress-bar.dev/70?title=LinuxShell)
+- ![50%](https://progress-bar.dev/50?title=NodeJS)
+- ![50%](https://progress-bar.dev/50?title=Python)
+- ![70%](https://progress-bar.dev/70?title=R)
+- ![60%](https://progress-bar.dev/60?title=MATLAB)
+- ![60%](https://progress-bar.dev/60?title=C)
+- ![60%](https://progress-bar.dev/60?title=Java)
+### Graphics Design
+- ![60%](https://progress-bar.dev/60?title=AdobePhotoshop)
+- ![60%](https://progress-bar.dev/60?title=AdobeInDesign)
