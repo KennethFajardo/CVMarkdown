@@ -24,7 +24,7 @@ August 2014 - December 2019
 - **Webserver Security** | TLDC-CAR Project 3: *Online Database of the Medicinal Plants of the Cordillera*\
   Conducted on: October 3 and October 10, 2020
 
-## SKILLS\
+## SKILLS
 ### Programming
 - ![80%](https://progress-bar.dev/80?title=HTML)
 - ![70%](https://progress-bar.dev/70?title=CSS)
