@@ -15,13 +15,13 @@ January 2020 - February 2021
   - created layouts for books on ethnomedicinal plants and a food recipe book
 
 ## EDUCATION
-BS Computer Science | University of the Philippines Baguio\
+**BS Computer Science** | University of the Philippines Baguio\
 August 2014 - December 2019
 
 ## SEMINARS/WORKSHOPS
 - **VA/PT Training** | SITESPHIL\
   Conducted on: February 10-12, 2021
-- **Webserver Security** | TLDC-CAR Project 3: **Online Database of the Medicinal Plants of the Cordillera**\
+- **Webserver Security** | TLDC-CAR Project 3: *Online Database of the Medicinal Plants of the Cordillera*\
   Conducted on: October 3 and October 10, 2020
 
 ## SKILLS\
