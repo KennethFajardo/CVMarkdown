@@ -19,10 +19,10 @@ BS Computer Science | University of the Philippines Baguio\
 August 2014 - December 2019
 
 ## SEMINARS/WORKSHOPS
-- VA/PT Training | SITESPHIL\
-  February 2021
-- Webserver Security | TLDC-CAR Project 3: Online Database of the Medicinal Plants of the Cordillera\
-  October 2020
+- **VA/PT Training** | SITESPHIL\
+  Conducted on: February 10-12, 2021
+- **Webserver Security** | TLDC-CAR Project 3: **Online Database of the Medicinal Plants of the Cordillera**\
+  Conducted on: October 3 and October 10, 2020
 
 ## SKILLS\
 ### Programming
@@ -38,6 +38,7 @@ August 2014 - December 2019
 - ![60%](https://progress-bar.dev/60?title=MATLAB)
 - ![60%](https://progress-bar.dev/60?title=C)
 - ![60%](https://progress-bar.dev/60?title=Java)
+
 ### Graphics Design
 - ![60%](https://progress-bar.dev/60?title=AdobePhotoshop)
 - ![60%](https://progress-bar.dev/60?title=AdobeInDesign)
