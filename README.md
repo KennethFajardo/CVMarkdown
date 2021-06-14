@@ -1,6 +1,4 @@
- <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
- 
-## :computer: TECHNICAL EXPERIENCE
+## 💻 TECHNICAL EXPERIENCE
 ### **Project Technical Staff II** | University of the Philippines Baguio
 January 2020 - February 2021
 * **Web Development**
@@ -16,17 +14,17 @@ January 2020 - February 2021
   - created flyers and brochures for advertising
   - created layouts for books on ethnomedicinal plants and a food recipe book
 
-## :book: EDUCATION
+## 📖 EDUCATION
 **BS Computer Science** | University of the Philippines Baguio\
 August 2014 - December 2019
 
-## :page_facing_up: SEMINARS/WORKSHOPS
+## 📄 SEMINARS/WORKSHOPS
 - **VA/PT Training** | SITESPHIL\
   Conducted on: February 10-12, 2021
 - **Webserver Security** | TLDC-CAR Project 3: *Online Database of the Medicinal Plants of the Cordillera*\
   Conducted on: October 3 and October 10, 2020
 
-## :hammer_and_wrench: SKILLS
+## 🛠️ SKILLS
 ### Programming
 - ![80%](https://progress-bar.dev/80?title=HTML)
 - ![70%](https://progress-bar.dev/70?title=CSS)
