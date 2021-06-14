@@ -4,8 +4,7 @@ title: 💻✒️📄🌟
 description: John Kenneth Fajardo's CV
 
 # John Kenneth Fajardo
-*Web Developer and aspiring data scientist*
-
+*Web Developer and aspiring data scientist*\
 📧 johnkennethfajardo@gmail.com / 📱  0917 489 3584
 
 ## Technical Experience
@@ -19,15 +18,13 @@ January 2020 - February 2021
 * Systems Administrator
   - helped in creating the infrastructure for deploying the websites.
   - helped update and secure the servers hosting the websites.
-* Graphics Design
-
+* Graphics Design\
   **Tools** 
   - Adobe Photoshop
   - Adobe InDesign
 
 ## Education
-BS Computer Science | University of the Philippines Baguio
-
+BS Computer Science | University of the Philippines Baguio\
 August 2014 - December 2019
 
 ## Seminars/Certifications
