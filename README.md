@@ -2,12 +2,12 @@
 ### **Project Technical Staff II** | University of the Philippines Baguio
 January 2020 - February 2021
 * **Web Development**
-  - helped maintain, update, and secure websites and their content under a CHED-funded project.
+  - maintained, updated, and secured websites and their content.
   - Websites
     1. [University of the Philippines Baguio Herbarium](https://herbarium.upb.edu.ph/) *(formerly known as Northern Luzon University Herbarium)*
     2. [Harnessing the Potential of plant resources in the Cordillera for Drug discovery, and Promoting the use of indigenous wild plants, and underutilized and neglected food crops as alternative food source and livelihood of local communities](https://upbaguiochedcar.upb.edu.ph/) 
 * **Systems Administrator**
-  - helped in creating the infrastructure for deploying the websites.
+  - helped in implementing the infrastructure for deploying the websites.
   - helped update and secure the servers hosting the websites.
 * **Graphics Design**
   - created labels for food products
@@ -25,7 +25,7 @@ August 2014 - December 2019
   Conducted on: October 3 and October 10, 2020
 
 ## 🛠️ SKILLS
-### Programming
+### Programming and Scripting
 - ![80%](https://progress-bar.dev/80?title=HTML)
 - ![70%](https://progress-bar.dev/70?title=CSS)
 - ![60%](https://progress-bar.dev/60?title=JavaScript)
@@ -38,6 +38,15 @@ August 2014 - December 2019
 - ![60%](https://progress-bar.dev/60?title=MATLAB)
 - ![60%](https://progress-bar.dev/60?title=C)
 - ![60%](https://progress-bar.dev/60?title=Java)
+
+### Database Management
+- ![70%](https://progress-bar.dev/70?title=MySQL)
+- ![50%](https://progress-bar.dev/50?title=MongoDB)
+
+### Server Management and Virtualization
+- ![70%](https://progress-bar.dev/70?title=ApacheServer)
+- ![70%](https://progress-bar.dev/70?title=VirtualBox)
+- ![65%](https://progress-bar.dev/65?title=Docker)
 
 ### Graphics Design
 - ![60%](https://progress-bar.dev/60?title=AdobePhotoshop)
