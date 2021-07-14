@@ -20,17 +20,17 @@ August 2020 - February 2021
 January 2020 - August 2020
 
 ## 📖 EDUCATION
-**BS Computer Science** | University of the Philippines Baguio\
+**BS Computer Science** | University of the Philippines Baguio
 August 2014 - December 2019
 
 ## 📄 CERTIFICATES/WORKSHOPS
-- **Data Science Specialization** | Coursera x Johns Hopkins University\
+**Data Science Specialization** | Coursera x Johns Hopkins University
   - Issued on: July 2021\
   - Rating: 97.16%\
   - Course Date: March to July 2021
-- **Vulnerability Assessment / Penetration Testing Training** | SITESPHIL\
+**Vulnerability Assessment / Penetration Testing Training** | SITESPHIL
   - February 10-12, 2021
-- **Webserver Security** | TLDC-CAR Project 3: *Online Database of the Medicinal Plants of the Cordillera*\
+**Webserver Security** | TLDC-CAR Project 3: *Online Database of the Medicinal Plants of the Cordillera*
   - October 3 and October 10, 2020
 
 ## 🛠️ SKILLS
