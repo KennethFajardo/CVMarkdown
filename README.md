@@ -25,9 +25,9 @@ August 2014 - December 2019
 
 ## 📄 CERTIFICATES/WORKSHOPS
 - **Data Science Specialization** | Coursera x Johns Hopkins University\
-  Issued on: July 2021\
-  Rating: 97.16%\
-  Course Date: March to July 2021
+  - Issued on: July 2021\
+  - Rating: 97.16%\
+  - Course Date: March to July 2021
 - **Vulnerability Assessment / Penetration Testing Training** | SITESPHIL\
   - February 10-12, 2021
 - **Webserver Security** | TLDC-CAR Project 3: *Online Database of the Medicinal Plants of the Cordillera*\
