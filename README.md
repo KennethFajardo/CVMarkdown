@@ -18,7 +18,9 @@ January 2020 - February 2021
 **BS Computer Science** | University of the Philippines Baguio\
 August 2014 - December 2019
 
-## 📄 SEMINARS/WORKSHOPS
+## 📄 CERTIFICATES/WORKSHOPS
+- **Data Science Specialization** | Coursera x Johns Hopkins University\
+  Issued on: July 2021
 - **VA/PT Training** | SITESPHIL\
   Conducted on: February 10-12, 2021
 - **Webserver Security** | TLDC-CAR Project 3: *Online Database of the Medicinal Plants of the Cordillera*\
