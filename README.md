@@ -7,7 +7,7 @@ August 2020 - February 2021
        - is an online database containing preserved plant specimens and descriptions, with emphasis on ethnobotanical uses, found in the Cordillera Administrative Region (CAR), Philippines.
     2. [Harnessing the Potential of plant resources in the Cordillera for Drug discovery, and Promoting the use of indigenous wild plants, and underutilized and neglected food crops as alternative food source and livelihood of local communities](https://upbaguiochedcar.upb.edu.ph/)
        - is an online repository for all the activities and achievements of the project including scientific articles, food products, and medicinal products. 
-       - was developed under a CHED-funded project of the same name, which aims to transfer all the said achievements to selected local communities in CAR.  
+       - was developed under a funded project by the Commission on Higher Education of the same name, which also aims to transfer all the said achievements to selected local communities in CAR.  
 * **Systems Administrator**
   - helped in implementing and maintaining virtual and physical servers hosting the mentioned websites.
   - contributed in creating the infrastructure for hosting multipled websites, mainly with layers of Docker instances.
