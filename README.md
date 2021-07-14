@@ -14,7 +14,7 @@ August 2020 - February 2021
 * **Graphics Designer**
   - designed packages for food products.
   - created flyers and brochures for marketing food and medicinal products.
-  - developed layouts for books on food recipes and ethnobotanical plants to be used for technology transfer to local communities.
+  - developed layouts for books on food recipes and ethnobotanical plants to be used for technology transfer to locals in far-flung areas.
 
 ### **Project Technical Staff I** | University of the Philippines Baguio
 January 2020 - August 2020
