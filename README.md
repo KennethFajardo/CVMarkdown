@@ -10,7 +10,7 @@ August 2020 - February 2021
        - was developed under a funded project by the Commission on Higher Education of the same name, which also aims to transfer all the said achievements to selected local communities in CAR.  
 * **Systems Administrator**
   - helped in implementing and maintaining virtual and physical servers hosting the mentioned websites.
-  - contributed in creating the infrastructure for hosting multipled websites, mainly with layers of Docker instances.
+  - contributed in creating the infrastructure for hosting multiple websites, mainly with layers of Docker instances.
 * **Graphics Designer**
   - designed packages for food products.
   - created flyers and brochures for marketing food and medicinal products.
