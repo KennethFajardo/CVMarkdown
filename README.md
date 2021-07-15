@@ -41,7 +41,7 @@ August 2014 - December 2019
 - Cascading Style Sheets (CSS)
 - JavaScript
 - PHP
-- Symfony4
+- Symfony
 - Linux Shell
 - NodeJS
 - Python
