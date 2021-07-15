@@ -26,7 +26,7 @@ August 2014 - December 2019
 ## 📄 CERTIFICATES/WORKSHOPS
 **Data Science Specialization** | Coursera x Johns Hopkins University
   - Issued on: July 2021
-  - Rating: 97.16%
+  - Avg. Rating: 96.86%
   - Course Date: March to July 2021
   
 **Vulnerability Assessment / Penetration Testing Training** | SITESPHIL
